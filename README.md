@@ -16,7 +16,7 @@ If you would like to build this project, follow these steps.
 * Once the process is complete, the game will run automatically.
 
 # Source Code
-Source Code can be accessed through opening the project in Unity. This Project uses Unity 2022.3.7f1. If you do not have Unity installed visit https://unity.com/download to download Unity. Here is a step by step guide to download the proper version.
+Source Code can be accessed through opening the project in Unity. This Project uses Unity 2022.3.7f1. If you do not have Unity installed visit https://unity.com/download to download Unity. Once you have downloaded Unity load the project folder after downloading in the Unity Hub by clicking on the tab "Add". From there download the proper version.Here is a step by step guide to download the proper version.
 
 * After downloading Unity, open the Unity Hub and go click on "Installs".
 * On the top right, click on "Install Editor".
